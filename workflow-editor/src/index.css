@@ -1,0 +1,7 @@
+@import "reactflow/dist/style.css";
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f8f8f8;
+}
